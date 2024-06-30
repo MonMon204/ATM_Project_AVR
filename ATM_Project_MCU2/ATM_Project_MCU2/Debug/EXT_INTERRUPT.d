@@ -1,0 +1,8 @@
+EXT_INTERRUPT.d EXT_INTERRUPT.o: .././EXT_INTERRUPT.c \
+ .././EXT_INTERRUPT.h .././BIT_MATH.h .././STD_TYPES.h
+
+.././EXT_INTERRUPT.h:
+
+.././BIT_MATH.h:
+
+.././STD_TYPES.h:
